@@ -4,7 +4,7 @@ In order to complete this course all of my coding assignments must pass all chec
 ## Harvard's CS50P on edX
 * Introduction
 * Functions, Variables
- ** PSET 1
+  *  PSET 1
 * Conditionals
 * Loops
 * Exceptions
