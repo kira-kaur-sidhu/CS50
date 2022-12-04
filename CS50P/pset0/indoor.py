@@ -1,4 +1,4 @@
-# Indoor Voices
+# Indoor Voices - prompts the user for input and then outputs that same input in lowercase.
 
 def main():
 
