@@ -14,6 +14,20 @@ In order to complete this course all of my coding assignments must pass all chec
 * Regular Expressions
 * Object-Oriented Programming
 * Et Cetera
+Final Project
 
 ## Harvard's CS50 on edX
-
+* Week 0
+* Week 1
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Security
+* Week 9
+* Artificial Intelligence
+* Week 10
+* Final Project
