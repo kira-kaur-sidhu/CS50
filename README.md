@@ -2,18 +2,17 @@
 In order to complete this course all of my coding assignments must pass all checks, I also choose the hardest problems offered
 
 ## Harvard's CS50P on edX
-* Introduction
-* Functions, Variables
-  ** PSET 1
-* Conditionals
-* Loops
-* Exceptions
-* Libraries
-* Unit Tests
-* File I/O
-* Regular Expressions
-* Object-Oriented Programming
-* Et Cetera
+* Week 0 - Introduction
+* Week 1 - Functions, Variables
+* Week 2 - Conditionals
+* Week 3 - Loops
+* Week 4 - Exceptions
+* Week 5 - Libraries
+* Week 6 - Unit Tests
+* Week 7 - File I/O
+* Week 8 - Regular Expressions
+* Week 9 - Object-Oriented Programming
+* Week 10 - Et Cetera
 * Final Project
 
 ## Harvard's CS50 on edX
