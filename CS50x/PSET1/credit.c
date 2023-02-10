@@ -48,7 +48,8 @@ int main(void)
 int count(long n)
 {
     int count = 0;
-    do{
+    do
+    {
         n = n / 10;
         ++count;
     }
@@ -66,7 +67,7 @@ int checksum(long n)
     {
         long number = n % 10;
 
-        if (i%2 == 0)
+        if (i % 2 == 0)
         {
             sum_odd += number;
         }
@@ -74,7 +75,7 @@ int checksum(long n)
         {
             sum_even += ((number * 2) % 10) + ((number * 2) / 10);
         }
-        n = (n -number) / 10;
+        n = (n - number) / 10;
     }
     return (sum_even + sum_odd);
 }
