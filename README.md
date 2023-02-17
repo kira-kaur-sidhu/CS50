@@ -13,7 +13,7 @@ In order to complete this course all of my coding assignments must pass all chec
 * Week 8 - Regular Expressions
 * Week 9 - Object-Oriented Programming
 * Week 10 - Et Cetera
-* Final Project
+* Final Project - see chess engine
 
 ## Harvard's CS50 on edX
 * Week 0 - Scratch
@@ -29,4 +29,4 @@ In order to complete this course all of my coding assignments must pass all chec
 * Week 10 - Emoji
 * Security
 * Artificial Intelligence
-* Final Project
+* Final Project - see chess engine
