@@ -1,4 +1,4 @@
-# CS50 and CS50P
+# CS50 and CS50P and CS50AI
 In order to complete this course all of my coding assignments must pass all checks, I also choose the hardest problems offered
 
 ## Harvard's CS50P on edX
@@ -30,3 +30,5 @@ In order to complete this course all of my coding assignments must pass all chec
 * Security
 * Artificial Intelligence
 * Final Project - see chess engine
+
+## Harvard's CS50AI on edX
